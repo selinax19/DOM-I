@@ -43,8 +43,8 @@ logo.setAttribute('src', siteContent["nav"]["img-src"])
 
 //Pushing to github
 //updated header img
-const cirImg = document.getElementById('cta-img');
-cirImg.src = 'img/header-img.png';
+const cirImg = document.getElementById('cular-img');
+cularImg.src = 'img/header-img.png';
 //update middle image
 const midImage = document.getElementById('middle-img');
 midImage.src = 'img/mid-page-accent.jpg';
