@@ -84,12 +84,12 @@ header nav {
 
 header nav a {
     text-decoration: none;
-    color: #b0b0b0;
+    color: green;
 }
 
 header nav a:hover {
     text-decoration: underline;
-    color: black;
+    color: green;
 }
 
 header .logo {
@@ -223,7 +223,10 @@ footer {
     .contact {
         margin: 0 30px;
     }
+
+ 
 }
+
 
 /* Phone */
 @media (max-width: 400px) {
@@ -296,4 +299,5 @@ footer {
     .contact {
         margin: 20px;
     }
+
 }
